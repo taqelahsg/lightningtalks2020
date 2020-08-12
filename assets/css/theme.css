@@ -35,3 +35,7 @@
   padding: 15px 15px 15px 35px;
   color: #FFF;
 }
+.social-icon {
+  display: block;
+  margin-left: 15px;
+}
